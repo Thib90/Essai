@@ -2,6 +2,7 @@
 
 J'ajoute un texte alors que je suis dans la branche **Testfonction**
 J'ajoute du texte alors que je suis sur mon ordinateur
+J'ajoute du texte localeent sur la branche **TestFonction** uniquement
 
 ## Introduction 
 Ce projet n'a d'autre ambition que de faire un test, pour les **étudiants de l'école Centrale de Lyon**
